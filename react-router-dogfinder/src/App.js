@@ -7,7 +7,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Good luck!</h1>
+      <h1>Welcome!</h1>
+      <BrowserRouter></BrowserRouter>
     </div>
   );
 }
